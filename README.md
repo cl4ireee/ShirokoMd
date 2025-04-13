@@ -14,7 +14,7 @@
 <a href="https://github.com/ImYanXiao"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Claire-cyan.svg?style=for-the-badge&logo=github"></a>
 
 Example Code
-
+```javascript
 const handler = async (m, { conn }) => {
   const start = new Date().getTime()
   await m.reply("Pinging...")
