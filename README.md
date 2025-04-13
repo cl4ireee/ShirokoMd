@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/0421p1.jpg" width="100px" alt="Shiroko">
+  <img src="https://files.catbox.moe/0421p1.jpg" width="200px" alt="Shiroko">
 </p>
 
 <h1 align="center">Shiroko</h1>
